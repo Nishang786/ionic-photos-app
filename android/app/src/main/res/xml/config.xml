@@ -3,7 +3,7 @@
   <access origin="*" />
   
   <feature name="PhotoViewer">
-    <param name="ios-package" value="PhotoViewer"/>
+    <param name="android-package" value="com.sarriaroman.PhotoViewer.PhotoViewer"/>
   </feature>
 
   
